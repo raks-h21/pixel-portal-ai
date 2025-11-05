@@ -25,7 +25,7 @@ const Index = () => {
             </div>
           </div>
           <h1 className="text-5xl md:text-7xl font-bold text-primary-foreground mb-6 tracking-tight">
-            Artisan Gallery
+            Memora
           </h1>
           <p className="text-xl md:text-2xl text-primary-foreground/90 mb-8 max-w-2xl mx-auto">
             Experience art in a whole new dimension. Explore stunning 2D collections and step into immersive 3D galleries.
@@ -55,7 +55,7 @@ const Index = () => {
       {/* Features Section */}
       <section className="py-20 px-4 bg-background">
         <div className="container mx-auto">
-          <h2 className="text-4xl font-bold text-center mb-16">Why Choose Artisan Gallery</h2>
+          <h2 className="text-4xl font-bold text-center mb-16">Why Choose Memora</h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="text-center p-8 rounded-lg card-gradient shadow-card transition-smooth hover:shadow-elegant">
               <div className="inline-block p-4 rounded-full bg-secondary/10 mb-4">
@@ -114,7 +114,7 @@ const Index = () => {
       <footer className="py-8 px-4 bg-primary text-primary-foreground">
         <div className="container mx-auto text-center">
           <p className="text-sm opacity-90">
-            © 2024 Artisan Gallery. All rights reserved.
+            © 2024 Memora. All rights reserved.
           </p>
         </div>
       </footer>

@@ -69,7 +69,7 @@ const Dashboard = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <Palette className="h-8 w-8 text-primary-foreground" />
-              <h1 className="text-2xl font-bold text-primary-foreground">Artisan Gallery</h1>
+              <h1 className="text-2xl font-bold text-primary-foreground">Memora</h1>
             </div>
             <div className="flex items-center gap-4">
               <span className="text-primary-foreground/90 hidden sm:inline">
